@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: pywizard
+Version: 1.4.3
+Summary: A tool to convert Wave-Files to LPC bytestreams used by TMS5220 chips and emulators like the Arduino Talkie library
+Home-page: http://github.com/ptwz/python_wizard
+Author: Peter Turczak (python port), Patrick J. Collins (original code and most of the work), Special thanks to: Richard Wiggins Jonathan Gevaryahu Gene Frantz Frank Palazzolo
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
